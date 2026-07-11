@@ -6,6 +6,8 @@
 
 A cross-platform Node.js patch that injects `dir="auto"` into the Claude Code VSCode extension's webview, enabling proper Right-to-Left (RTL) and bidirectional text rendering for assistant messages.
 
+
+[![Screenshot](img.png)]()
 ---
 
 ## 🧠 The Problem
